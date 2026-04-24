@@ -1,0 +1,122 @@
+
+{
+  "alarm" : 
+  [
+    
+    {
+      "ACTION" : "ACTIVATETASK",
+      "ACTION_S" : 
+      {
+        "TASK" : "TickPrint"
+      },
+      "AUTOSTART" : "true",
+      "AUTOSTART_S" : 
+      {
+        "ALARMTIME" : 977,
+        "APPMODE" : 
+        [
+          
+          {
+            "VALUE" : "stdAppmode"
+          }
+        ],
+        "CYCLETIME" : 977
+      },
+      "COUNTER" : "DefaultTimer",
+      "NAME" : "TimerAlarm"
+    }
+  ],
+  "event" : 
+  [
+    
+    {
+      "MASK" : 1,
+      "NAME" : "Event1",
+      "REF" : 1
+    },    
+    {
+      "MASK" : 2,
+      "NAME" : "Event2",
+      "REF" : 1
+    }
+  ],
+  "ioc" : [],
+  "isr" : 
+  [
+    
+    {
+      "CATEGORY" : 2,
+      "KIND" : "ISR",
+      "NAME" : "ISRPin2",
+      "PRIORITY" : 44,
+      "SOURCE" : "PIN2",
+      "SOURCE_S" : 
+      {
+        "MODE" : "FALLING",
+        "PULL" : "UP"
+      },
+      "STACKSIZE" : 256
+    },    
+    {
+      "CATEGORY" : 2,
+      "KIND" : "ISR",
+      "NAME" : "ISRPin3",
+      "PRIORITY" : 46,
+      "SOURCE" : "PIN3",
+      "SOURCE_S" : 
+      {
+        "MODE" : "FALLING",
+        "PULL" : "UP"
+      },
+      "STACKSIZE" : 256
+    }
+  ],
+  "message" : [],
+  "resource" : [],
+  "task" : 
+  [
+    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "true",
+      "AUTOSTART_S" : 
+      {
+        "APPMODE" : 
+        [
+          
+          {
+            "VALUE" : "stdAppmode"
+          }
+        ]
+      },
+      "EVENT" : 
+      [
+        
+        {
+          "VALUE" : "Event1"
+        },        
+        {
+          "VALUE" : "Event2"
+        }
+      ],
+      "KIND" : "Task",
+      "NAME" : "Task1",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 1,
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 256,
+      "USEINTERNALRESOURCE" : "false"
+    },    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "KIND" : "Task",
+      "NAME" : "TickPrint",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 2,
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 256,
+      "USEINTERNALRESOURCE" : "false"
+    }
+  ]
+}
