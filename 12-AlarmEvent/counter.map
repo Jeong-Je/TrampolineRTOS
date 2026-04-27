@@ -1,0 +1,2365 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftostrf.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (dtostrf)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              build/machines/avr/arduino/cores/arduino/new.cpp.o (malloc)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o)
+                              build/machines/avr/arduino/cores/arduino/WMath.cpp.o (random)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(realloc.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (realloc)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              build/machines/avr/arduino/cores/arduino/abi.cpp.o (abort)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atoff.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (atof)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atol.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (atol)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (isspace)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (tolower)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (toupper)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy_P.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__strcpy_P)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (strlen_P)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (memcpy)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (memmove)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strchr.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (strchr)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcmp.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__strcmp)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__strcpy)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (strlen)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (strncmp)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (strncpy)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (strrchr)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strstr.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (strstr)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__itoa)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__itoa_ncheck)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__ltoa)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__ltoa_ncheck)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atol.o) (__mulsi_const_10)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__ultoa)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__ultoa_ncheck)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__utoa)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                              build/machines/avr/arduino/cores/arduino/WString.cpp.o (__utoa_ncheck)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+                              build/bsw.cpp.o (vsnprintf)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o) (vfprintf)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_prf.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftostrf.o) (ftoa_prf)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atoff.o) (strtof)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_abort.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(abort.o) (__abort)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_prf.o) (__ftoa_engine)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(isspace.o) (__ctype_isfalse)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o) (strncasecmp_P)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o) (strrev)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mul10.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o) (__mulhi_const_10)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pwr_10.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o) (__avrlibc_pwr_m10)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(errno.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o) (errno)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pstr_inf.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o) (__pstr_nan)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+                              build/machines/avr/arduino/cores/arduino/WMath.cpp.o (__mulsi3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+                              build/bsw.cpp.o (__udivmodsi4)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+                              build/machines/avr/arduino/cores/arduino/WMath.cpp.o (__divmodsi4)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atol.o) (__negsi2)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+                              build/os/tpl_os_kernel.c.o (__do_copy_data)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+                              build/os/tpl_os_kernel.c.o (__do_clear_bss)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+                              build/machines/avr/arduino/cores/arduino/main.cpp.o (__do_global_ctors)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+                              build/machines/avr/arduino/cores/arduino/Stream.cpp.o (__muluhisi3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o) (__mulohisi3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o) (__prologue_saves__)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o) (__epilogue_restores__)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (__subsf3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o) (__eqsf2)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (__divsf3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (__fixunssfsi)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (__floatunsisf)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (__gtsf2)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(isinf.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (isinf)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (__mulsf3)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              build/machines/avr/arduino/cores/arduino/Print.cpp.o (__unordsf2)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(init_sp.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o (__init_sp)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(call_main.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o (__call_main)
+C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+                              C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(call_main.o) (exit)
+
+Merging object attributes
+
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 build/os/tpl_os_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_kernel.c.o
+ .text.tpl_begin_alarm_callback
+                0x00000000        0x8 build/os/tpl_os_kernel.c.o
+ .text.tpl_end_alarm_callback
+                0x00000000        0x6 build/os/tpl_os_kernel.c.o
+ .text.tpl_alarm_callback_running
+                0x00000000        0x6 build/os/tpl_os_kernel.c.o
+ .text.tpl_front_proc
+                0x00000000        0xa build/os/tpl_os_kernel.c.o
+ .data.INTERNAL_RES_SCHEDULER
+                0x00000000        0x3 build/os/tpl_os_kernel.c.o
+ .rodata.INVALID_PROC
+                0x00000000        0x1 build/os/tpl_os_kernel.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_timeobj_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_timeobj_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_timeobj_kernel.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_action.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_action.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_action.c.o
+ .text.tpl_action_callback
+                0x00000000       0x2a build/os/tpl_os_action.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_error.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_error.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_error.c.o
+ .comment       0x00000000       0x13 build/os/tpl_os_error.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_os_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_os_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_os_kernel.c.o
+ .text.tpl_call_shutdown_os
+                0x00000000        0x4 build/os/tpl_os_os_kernel.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_os.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_os.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_os.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_interrupt_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_interrupt_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_interrupt_kernel.c.o
+ .text.tpl_null_it
+                0x00000000        0x2 build/os/tpl_os_interrupt_kernel.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_task_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_task_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_task_kernel.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_resource_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_resource_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_resource_kernel.c.o
+ .rodata.INVALID_RESOURCE
+                0x00000000        0x1 build/os/tpl_os_resource_kernel.c.o
+ .rodata.RES_SCHEDULER
+                0x00000000        0x1 build/os/tpl_os_resource_kernel.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_event_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_event_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_event_kernel.c.o
+ .text          0x00000000        0x0 build/os/tpl_os_alarm_kernel.c.o
+ .data          0x00000000        0x0 build/os/tpl_os_alarm_kernel.c.o
+ .bss           0x00000000        0x0 build/os/tpl_os_alarm_kernel.c.o
+ .rodata.INVALID_ALARM
+                0x00000000        0x1 build/os/tpl_os_alarm_kernel.c.o
+ .text          0x00000000        0x0 build/bsw.cpp.o
+ .data          0x00000000        0x0 build/bsw.cpp.o
+ .bss           0x00000000        0x0 build/bsw.cpp.o
+ .text          0x00000000        0x0 build/asw.c.o
+ .data          0x00000000        0x0 build/asw.c.o
+ .bss           0x00000000        0x0 build/asw.c.o
+ .text          0x00000000        0x0 build/conf/tpl_app_config.c.o
+ .data          0x00000000        0x0 build/conf/tpl_app_config.c.o
+ .bss           0x00000000        0x0 build/conf/tpl_app_config.c.o
+ .rodata.str1.1
+                0x00000000       0x23 build/conf/tpl_app_config.c.o
+ .rodata.proc_name_table
+                0x00000000        0xa build/conf/tpl_app_config.c.o
+ .rodata.OSMINCYCLE_counter1
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSMAXALLOWEDVALUE_counter1
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSTICKSPERBASE_counter1
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSMINCYCLE
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSMAXALLOWEDVALUE
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSTICKSPERBASE
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSMINCYCLE_DefaultTimer
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSMAXALLOWEDVALUE_DefaultTimer
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.OSTICKSPERBASE_DefaultTimer
+                0x00000000        0x4 build/conf/tpl_app_config.c.o
+ .rodata.alarm4
+                0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .rodata.alarm3
+                0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .rodata.alarm2
+                0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .rodata.alarm1
+                0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .rodata.TimerAlarm
+                0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .rodata.TickPrint
+                0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .rodata.Task1  0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .rodata.stdAppmode
+                0x00000000        0x1 build/conf/tpl_app_config.c.o
+ .text          0x00000000        0x0 build/conf/tpl_dispatch_table.c.o
+ .data          0x00000000        0x0 build/conf/tpl_dispatch_table.c.o
+ .bss           0x00000000        0x0 build/conf/tpl_dispatch_table.c.o
+ .data          0x00000000        0x0 build/conf/tpl_invoque.S.o
+ .bss           0x00000000        0x0 build/conf/tpl_invoque.S.o
+ .text          0x00000000        0x0 build/conf/tpl_interrupts.c.o
+ .data          0x00000000        0x0 build/conf/tpl_interrupts.c.o
+ .bss           0x00000000        0x0 build/conf/tpl_interrupts.c.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+ .text.digitalRead
+                0x00000000       0x4e build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+ .progmem.data.port_to_input_PGM
+                0x00000000        0xa build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring.c.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring.c.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring.c.o
+ .text.micros   0x00000000       0x3c build/machines/avr/arduino/cores/arduino/wiring.c.o
+ .text.delay    0x00000000       0x72 build/machines/avr/arduino/cores/arduino/wiring.c.o
+ .text.delayMicroseconds
+                0x00000000       0x16 build/machines/avr/arduino/cores/arduino/wiring.c.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/hooks.c.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/hooks.c.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/hooks.c.o
+ .text.__empty  0x00000000        0x2 build/machines/avr/arduino/cores/arduino/hooks.c.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/hooks.c.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .text.analogReference
+                0x00000000        0x6 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .text.analogRead
+                0x00000000       0x38 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .text.analogWrite
+                0x00000000       0xe8 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .data.analog_reference
+                0x00000000        0x1 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+ .text          0x00000000        0x0 build/machines/avr/tpl_machine.c.o
+ .data          0x00000000        0x0 build/machines/avr/tpl_machine.c.o
+ .bss           0x00000000        0x0 build/machines/avr/tpl_machine.c.o
+ .text.tpl_get_task_lock
+                0x00000000        0x4 build/machines/avr/tpl_machine.c.o
+ .text.tpl_release_task_lock
+                0x00000000        0x4 build/machines/avr/tpl_machine.c.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .text.atexit   0x00000000        0x6 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .text._Z8setupUSBv
+                0x00000000        0x2 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .text._Z10SetAppModea
+                0x00000000        0x6 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .text._Z10randomSeedm
+                0x00000000        0xe build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .text._Z6randoml
+                0x00000000       0x4a build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .text._Z6randomll
+                0x00000000       0x3c build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .text._Z3maplllll
+                0x00000000       0x82 build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .text._Z8makeWordj
+                0x00000000        0x2 build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .text._Z8makeWordhh
+                0x00000000        0x8 build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+ .group         0x00000000        0x8 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String14StringIfHelperEv
+                0x00000000        0x2 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringD2Ev
+                0x00000000       0x10 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String10invalidateEv
+                0x00000000       0x24 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String12changeBufferEj
+                0x00000000       0x34 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String7reserveEj
+                0x00000000       0x38 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String4copyEPKcj
+                0x00000000       0x58 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2EPKc
+                0x00000000       0x26 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String4copyEPK19__FlashStringHelperj
+                0x00000000       0x58 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String4moveERS_
+                0x00000000       0x7e build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2EOS_
+                0x00000000       0x12 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2EO15StringSumHelper
+                0x00000000       0x12 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringaSERKS_
+                0x00000000       0x2e build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2ERKS_
+                0x00000000       0x12 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringaSEOS_
+                0x00000000       0x18 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringaSEO15StringSumHelper
+                0x00000000       0x18 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringaSEPKc
+                0x00000000       0x28 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2Ec
+                0x00000000       0x30 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2Ehh
+                0x00000000       0x5a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2Eih
+                0x00000000       0x58 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2Ejh
+                0x00000000       0x58 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2Elh
+                0x00000000       0x5a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2Emh
+                0x00000000       0x5a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2Edh
+                0x00000000       0x60 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringaSEPK19__FlashStringHelper
+                0x00000000       0x28 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringC2EPK19__FlashStringHelper
+                0x00000000       0x12 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEPKcj
+                0x00000000       0x5c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatERKS_
+                0x00000000        0xe build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEPKc
+                0x00000000       0x1a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEc
+                0x00000000       0x26 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEh
+                0x00000000       0x4c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEi
+                0x00000000       0x50 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEj
+                0x00000000       0x50 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEl
+                0x00000000       0x52 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEm
+                0x00000000       0x52 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEf
+                0x00000000       0x54 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEd
+                0x00000000        0x4 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6concatEPK19__FlashStringHelper
+                0x00000000       0x62 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperRK6String
+                0x00000000       0x26 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperPKc
+                0x00000000       0x2e build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperc
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperh
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperi
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperj
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperl
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperm
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperf
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperd
+                0x00000000        0x4 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZplRK15StringSumHelperPK19__FlashStringHelper
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String9compareToERKS_
+                0x00000000       0x52 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String6equalsERKS_
+                0x00000000       0x22 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String6equalsEPKc
+                0x00000000       0x40 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6StringltERKS_
+                0x00000000        0xc build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6StringgtERKS_
+                0x00000000       0x12 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6StringleERKS_
+                0x00000000       0x12 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6StringgeERKS_
+                0x00000000        0xe build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000       0x5c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000       0x46 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String10startsWithERKS_
+                0x00000000       0x1e build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String8endsWithERKS_
+                0x00000000       0x44 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String9setCharAtEjc
+                0x00000000       0x1a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6StringixEj
+                0x00000000       0x24 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6StringixEj
+                0x00000000       0x22 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String6charAtEj
+                0x00000000        0x4 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String8getBytesEPhjj
+                0x00000000       0x5a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String7indexOfEcj
+                0x00000000       0x30 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x8 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000       0x38 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x8 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000       0x6a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0xe build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000       0xba build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000       0x14 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .rodata._ZNK6String9substringEjj.str1.1
+                0x00000000        0x1 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String9substringEjj
+                0x00000000       0x8a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String7replaceEcc
+                0x00000000       0x1e build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000      0x208 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6removeEjj
+                0x00000000       0x5c build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String6removeEj
+                0x00000000        0x8 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String11toLowerCaseEv
+                0x00000000       0x24 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String11toUpperCaseEv
+                0x00000000       0x24 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZN6String4trimEv
+                0x00000000       0x7a build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String5toIntEv
+                0x00000000       0x16 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String8toDoubleEv
+                0x00000000       0x16 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text._ZNK6String7toFloatEv
+                0x00000000        0x4 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x1 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/WString.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+ .text.attachInterrupt
+                0x00000000       0x3c build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+ .text.detachInterrupt
+                0x00000000       0x22 build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/abi.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/abi.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/abi.cpp.o
+ .text.unlikely.__cxa_pure_virtual
+                0x00000000        0x4 build/machines/avr/arduino/cores/arduino/abi.cpp.o
+ .text.unlikely.__cxa_deleted_virtual
+                0x00000000        0x4 build/machines/avr/arduino/cores/arduino/abi.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/abi.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .text._Znwj    0x00000000        0x4 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .text._Znaj    0x00000000        0x4 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .text._ZnwjPv  0x00000000        0x4 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .text._ZdlPv   0x00000000        0x4 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .text._ZdaPv   0x00000000        0x4 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/new.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino//tpl_trace.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino//tpl_trace.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino//tpl_trace.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino//tpl_trace.cpp.o
+ .group         0x00000000        0x8 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .group         0x00000000        0x8 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .group         0x00000000        0xc build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .group         0x00000000        0xc build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x66 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEc
+                0x00000000        0xe build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .rodata._ZN5Print7printlnEv.str1.1
+                0x00000000        0x3 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEv
+                0x00000000        0x8 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEc
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0xb4 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEli
+                0x00000000       0xba build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEii
+                0x00000000        0xe build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEii
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEli
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEmi
+                0x00000000       0x1a build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEhi
+                0x00000000        0xe build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEji
+                0x00000000        0xc build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEji
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .rodata._ZN5Print10printFloatEdh.str1.1
+                0x00000000        0xc build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1d6 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x36 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .rodata._ZTV5Print
+                0x00000000        0xc build/machines/avr/arduino/cores/arduino/Print.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream9timedReadEv
+                0x00000000       0x54 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream9timedPeekEv
+                0x00000000       0x54 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream13peekNextDigitE13LookaheadModeb
+                0x00000000       0x8c build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream10setTimeoutEm
+                0x00000000        0xc build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream8parseIntE13LookaheadModec
+                0x00000000       0xc6 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream10parseFloatE13LookaheadModec
+                0x00000000      0x136 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream9readBytesEPcj
+                0x00000000       0x6e build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream14readBytesUntilEcPcj
+                0x00000000       0x80 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .rodata._ZN6Stream10readStringEv.str1.1
+                0x00000000        0x1 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream10readStringEv
+                0x00000000       0x48 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream15readStringUntilEc
+                0x00000000       0x66 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream9findMultiEPNS_11MultiTargetEi
+                0x00000000      0x15e build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream9findUntilEPcjS0_j
+                0x00000000       0x7a build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream9findUntilEPcS0_
+                0x00000000       0x24 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream4findEPcj
+                0x00000000       0x44 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text._ZN6Stream4findEPc
+                0x00000000       0x4e build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+ .text._Z17Serial0_availablev
+                0x00000000       0x14 build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial1.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial1.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial1.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/HardwareSerial1.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial2.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial2.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial2.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/HardwareSerial2.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial3.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial3.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial3.cpp.o
+ .comment       0x00000000       0x13 build/machines/avr/arduino/cores/arduino/HardwareSerial3.cpp.o
+ .group         0x00000000        0xc build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+ .text          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+ .bss           0x00000000        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+ .text._Z14serialEventRunv
+                0x00000000       0x1c build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+ .data          0x00000000        0x0 build/machines/avr/avr_switch_context.s.o
+ .bss           0x00000000        0x0 build/machines/avr/avr_switch_context.s.o
+ .bss           0x00000000        0x0 build/machines/avr/tpl_dispatch.S.o
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftostrf.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftostrf.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftostrf.o)
+ .text.avr-libc
+                0x00000000       0x40 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftostrf.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftostrf.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .data          0x00000000        0x6 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text.avr-libc
+                0x00000000      0x238 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .data          0x00000000        0x4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .text.avr-libc
+                0x00000000      0x14c C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .text.avr-libc
+                0x00000000      0x18c C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0x4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atoff.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atoff.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atoff.o)
+ .text.avr-libc
+                0x00000000        0x8 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atoff.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atol.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atol.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atol.o)
+ .text.avr-libc
+                0x00000000       0x40 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(atol.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text.avr-libc
+                0x00000000       0x12 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text.avr-libc
+                0x00000000       0x10 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text.avr-libc
+                0x00000000       0x10 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy_P.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy_P.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy_P.o)
+ .text.avr-libc
+                0x00000000        0xa C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy_P.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .text.avr-libc
+                0x00000000       0x12 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text.avr-libc
+                0x00000000       0x12 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .text.avr-libc
+                0x00000000       0x24 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .text.avr-libc
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcmp.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcmp.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcmp.o)
+ .text.avr-libc
+                0x00000000        0xe C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcmp.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy.o)
+ .text.avr-libc
+                0x00000000        0xa C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_strcpy.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .text.avr-libc
+                0x00000000       0x1c C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text.avr-libc
+                0x00000000       0x1e C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .text.avr-libc
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .text.avr-libc
+                0x00000000       0x34 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text.avr-libc
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text.avr-libc
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x14 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .text.avr-libc
+                0x00000000       0x1e C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .text.avr-libc
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x44 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .text.avr-libc
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x34 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_prf.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_prf.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_prf.o)
+ .text.avr-libc
+                0x00000000      0x2a4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_prf.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_prf.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o)
+ .text.avr-libc
+                0x00000000      0x27a C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strtof.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_abort.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_abort.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_abort.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .text.avr-libc
+                0x00000000      0x1b0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .progmemx.gcc_stdlib.ftoa_engine
+                0x00000000       0xfa C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text.avr-libc
+                0x00000000        0x6 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+ .text.avr-libc
+                0x00000000       0x30 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text.avr-libc
+                0x00000000       0x20 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .text.avr-libc
+                0x00000000       0x10 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pwr_10.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pwr_10.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pwr_10.o)
+ .progmemx.data.pwr_10
+                0x00000000       0x30 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pwr_10.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pwr_10.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .bss           0x00000000        0x2 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pstr_inf.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pstr_inf.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pstr_inf.o)
+ .progmemx.data.__pstr_inf
+                0x00000000        0xb C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pstr_inf.o)
+ .comment       0x00000000       0x13 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(pstr_inf.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x00000000       0x20 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x2e C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x10 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x1e C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x52 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x70 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(isinf.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(isinf.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(isinf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x14 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(isinf.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(init_sp.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(init_sp.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(init_sp.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(call_main.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(call_main.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(call_main.o)
+ .text          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw!x
+eeprom           0x00810000         0x00000400         rw!x
+fuse             0x00820000         0x00000003         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a
+LOAD build/os/tpl_os_kernel.c.o
+LOAD build/os/tpl_os_timeobj_kernel.c.o
+LOAD build/os/tpl_os_action.c.o
+LOAD build/os/tpl_os_error.c.o
+LOAD build/os/tpl_os_os_kernel.c.o
+LOAD build/os/tpl_os_os.c.o
+LOAD build/os/tpl_os_interrupt_kernel.c.o
+LOAD build/os/tpl_os_task_kernel.c.o
+LOAD build/os/tpl_os_resource_kernel.c.o
+LOAD build/os/tpl_os_event_kernel.c.o
+LOAD build/os/tpl_os_alarm_kernel.c.o
+LOAD build/bsw.cpp.o
+LOAD build/asw.c.o
+LOAD build/conf/tpl_app_config.c.o
+LOAD build/conf/tpl_dispatch_table.c.o
+LOAD build/conf/tpl_invoque.S.o
+LOAD build/conf/tpl_interrupts.c.o
+LOAD build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+LOAD build/machines/avr/arduino/cores/arduino/wiring.c.o
+LOAD build/machines/avr/arduino/cores/arduino/hooks.c.o
+LOAD build/machines/avr/arduino/cores/arduino/wiring_analog.c.o
+LOAD build/machines/avr/tpl_machine.c.o
+LOAD build/machines/avr/arduino/cores/arduino/main.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/WMath.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/WString.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+LOAD build/machines/avr/arduino/cores/arduino/abi.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/new.cpp.o
+LOAD build/machines/avr/arduino//tpl_trace.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/Print.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/Stream.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/HardwareSerial1.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/HardwareSerial2.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/HardwareSerial3.cpp.o
+LOAD build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+LOAD build/machines/avr/avr_switch_context.s.o
+LOAD build/machines/avr/tpl_dispatch.S.o
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a
+START GROUP
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libm.a
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a
+END GROUP
+                [0x00000000]                      __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00008000]                      __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00800100]                      __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00000800]                      __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                      __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2850
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+                0x00000068                        __progmem_start = .
+ *(.progmem)
+ *(.progmem.*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000a4        0xa build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                0x000000a4                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000ae        0xa build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                0x000000ae                port_to_mode_PGM
+                0x000000b8                        __progmem_end = .
+                0x00000001                        ASSERT (((__progmem_start == __progmem_end) || (__progmem_end <= 0x10000)), .progmem section exceeds 0x10000)
+                0x000000b8                        . = ALIGN (0x2)
+                0x000000b8                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000b8        0x0 linker stubs
+ *(.trampolines*)
+                0x000000b8                        __trampolines_end = .
+                0x000000b8                        . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000b8                        __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000b8        0x2 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .ctors         0x000000ba        0x2 build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+                0x000000bc                        __ctors_end = .
+                0x000000bc                        __dtors_start = .
+ *(.dtors)
+                0x000000bc                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x000000bc        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x000000bc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000bc        0x4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .init2         0x000000c0        0x8 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(init_sp.o)
+                0x000000c0                __init_sp
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000c8       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_copy_data.o)
+                0x000000c8                __do_copy_data
+ .init4         0x000000de       0x10 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000de                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000ee       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_ctors.o)
+                0x000000ee                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000104        0x8 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libatmega328p.a(call_main.o)
+                0x00000104                __call_main
+ *(.init9)
+ *(.text)
+ .text          0x0000010c        0x4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x0000010c                __vector_22
+                0x0000010c                __vector_24
+                0x0000010c                __vector_12
+                0x0000010c                __bad_interrupt
+                0x0000010c                __vector_6
+                0x0000010c                __vector_3
+                0x0000010c                __vector_23
+                0x0000010c                __vector_25
+                0x0000010c                __vector_11
+                0x0000010c                __vector_17
+                0x0000010c                __vector_7
+                0x0000010c                __vector_5
+                0x0000010c                __vector_4
+                0x0000010c                __vector_21
+                0x0000010c                __vector_15
+                0x0000010c                __vector_8
+                0x0000010c                __vector_14
+                0x0000010c                __vector_10
+                0x0000010c                __vector_20
+ .text          0x00000110       0xe0 build/conf/tpl_invoque.S.o
+                0x00000110                GetActiveApplicationMode
+                0x00000118                tpl_start_os
+                0x00000120                ShutdownOS
+                0x00000128                EnableAllInterrupts
+                0x00000130                DisableAllInterrupts
+                0x00000138                ResumeAllInterrupts
+                0x00000140                SuspendAllInterrupts
+                0x00000148                ResumeOSInterrupts
+                0x00000150                SuspendOSInterrupts
+                0x00000158                CallTerminateISR2
+                0x00000160                ActivateTask
+                0x00000168                TerminateTask
+                0x00000170                ChainTask
+                0x00000178                Schedule
+                0x00000180                GetTaskID
+                0x00000188                GetTaskState
+                0x00000190                CallTerminateTask
+                0x00000198                GetResource
+                0x000001a0                ReleaseResource
+                0x000001a8                SetEvent
+                0x000001b0                ClearEvent
+                0x000001b8                GetEvent
+                0x000001c0                WaitEvent
+                0x000001c8                GetAlarmBase
+                0x000001d0                GetAlarm
+                0x000001d8                SetRelAlarm
+                0x000001e0                SetAbsAlarm
+                0x000001e8                CancelAlarm
+ .text          0x000001f0       0x56 build/machines/avr/avr_switch_context.s.o
+                0x000001f0                tpl_avr_save_context
+                0x0000021c                tpl_avr_restore_context
+ .text          0x00000246       0xda build/machines/avr/tpl_dispatch.S.o
+                0x00000246                tpl_switch_to_kernel_stack
+                0x0000025c                tpl_switch_to_user_stack
+                0x0000026a                tpl_avr_counter_tick
+                0x00000272                tpl_avr_ISR2_handler
+                0x0000027a                tpl_sc_handler
+                0x00000320                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.tpl_compare_entries
+                0x00000320       0x62 build/os/tpl_os_kernel.c.o
+                0x00000320                tpl_compare_entries
+ .text.tpl_bubble_up
+                0x00000382       0x7a build/os/tpl_os_kernel.c.o
+                0x00000382                tpl_bubble_up
+ .text.tpl_bubble_down
+                0x000003fc       0xc6 build/os/tpl_os_kernel.c.o
+                0x000003fc                tpl_bubble_down
+ .text.tpl_put_new_proc
+                0x000004c2       0x4c build/os/tpl_os_kernel.c.o
+                0x000004c2                tpl_put_new_proc
+ .text.tpl_put_preempted_proc
+                0x0000050e       0x3a build/os/tpl_os_kernel.c.o
+                0x0000050e                tpl_put_preempted_proc
+ .text.tpl_remove_front_proc
+                0x00000548       0x58 build/os/tpl_os_kernel.c.o
+                0x00000548                tpl_remove_front_proc
+ .text.tpl_current_os_state
+                0x000005a0       0x38 build/os/tpl_os_kernel.c.o
+                0x000005a0                tpl_current_os_state
+ .text.tpl_get_internal_resource
+                0x000005d8       0x56 build/os/tpl_os_kernel.c.o
+                0x000005d8                tpl_get_internal_resource
+ .text.tpl_release_internal_resource
+                0x0000062e       0x3c build/os/tpl_os_kernel.c.o
+                0x0000062e                tpl_release_internal_resource
+ .text.tpl_preempt
+                0x0000066a       0x3c build/os/tpl_os_kernel.c.o
+                0x0000066a                tpl_preempt
+ .text.tpl_run_elected
+                0x000006a6       0x7e build/os/tpl_os_kernel.c.o
+                0x000006a6                tpl_run_elected
+ .text.tpl_terminate
+                0x00000724       0x5c build/os/tpl_os_kernel.c.o
+                0x00000724                tpl_terminate
+ .text.tpl_activate_task
+                0x00000780       0x5e build/os/tpl_os_kernel.c.o
+                0x00000780                tpl_activate_task
+ .text.tpl_release
+                0x000007de       0x22 build/os/tpl_os_kernel.c.o
+                0x000007de                tpl_release
+ .text.tpl_set_event
+                0x00000800       0x42 build/os/tpl_os_kernel.c.o
+                0x00000800                tpl_set_event
+ .text.tpl_init_proc
+                0x00000842       0x18 build/os/tpl_os_kernel.c.o
+                0x00000842                tpl_init_proc
+ .text.tpl_start
+                0x0000085a       0x7c build/os/tpl_os_kernel.c.o
+                0x0000085a                tpl_start
+ .text.tpl_schedule_from_running
+                0x000008d6       0x34 build/os/tpl_os_kernel.c.o
+                0x000008d6                tpl_schedule_from_running
+ .text.tpl_block
+                0x0000090a       0x24 build/os/tpl_os_kernel.c.o
+                0x0000090a                tpl_block
+ .text.tpl_start_scheduling
+                0x0000092e        0xa build/os/tpl_os_kernel.c.o
+                0x0000092e                tpl_start_scheduling
+ .text.tpl_init_os
+                0x00000938       0xdc build/os/tpl_os_kernel.c.o
+                0x00000938                tpl_init_os
+ .text.tpl_call_terminate_task_service
+                0x00000a14       0x26 build/os/tpl_os_kernel.c.o
+                0x00000a14                tpl_call_terminate_task_service
+ .text.tpl_call_terminate_isr2_service
+                0x00000a3a       0x26 build/os/tpl_os_kernel.c.o
+                0x00000a3a                tpl_call_terminate_isr2_service
+ .text.tpl_enable_counters
+                0x00000a60        0x8 build/os/tpl_os_timeobj_kernel.c.o
+                0x00000a60                tpl_enable_counters
+ .text.tpl_insert_time_obj
+                0x00000a68       0xfa build/os/tpl_os_timeobj_kernel.c.o
+                0x00000a68                tpl_insert_time_obj
+ .text.tpl_remove_time_obj
+                0x00000b62       0x6c build/os/tpl_os_timeobj_kernel.c.o
+                0x00000b62                tpl_remove_time_obj
+ .text.tpl_counter_tick
+                0x00000bce      0x17c build/os/tpl_os_timeobj_kernel.c.o
+                0x00000bce                tpl_counter_tick
+ .text.tpl_action_activate_task
+                0x00000d4a        0x8 build/os/tpl_os_action.c.o
+                0x00000d4a                tpl_action_activate_task
+ .text.tpl_action_setevent
+                0x00000d52        0xa build/os/tpl_os_action.c.o
+                0x00000d52                tpl_action_setevent
+ .text.tpl_get_active_application_mode_service
+                0x00000d5c        0xa build/os/tpl_os_os_kernel.c.o
+                0x00000d5c                tpl_get_active_application_mode_service
+ .text.tpl_start_os_service
+                0x00000d66       0x10 build/os/tpl_os_os_kernel.c.o
+                0x00000d66                tpl_start_os_service
+ .text.tpl_shutdown_os_service
+                0x00000d76        0x4 build/os/tpl_os_os_kernel.c.o
+                0x00000d76                tpl_shutdown_os_service
+ .text.StartOS  0x00000d7a       0x24 build/os/tpl_os_os.c.o
+                0x00000d7a                StartOS
+ .text.tpl_get_interrupt_lock_status
+                0x00000d9e       0x40 build/os/tpl_os_interrupt_kernel.c.o
+                0x00000d9e                tpl_get_interrupt_lock_status
+ .text.tpl_reset_interrupt_lock_status
+                0x00000dde       0x46 build/os/tpl_os_interrupt_kernel.c.o
+                0x00000dde                tpl_reset_interrupt_lock_status
+ .text.tpl_suspend_all_interrupts_service
+                0x00000e24       0x52 build/os/tpl_os_interrupt_kernel.c.o
+                0x00000e24                tpl_suspend_all_interrupts_service
+ .text.tpl_resume_all_interrupts_service
+                0x00000e76       0x74 build/os/tpl_os_interrupt_kernel.c.o
+                0x00000e76                tpl_resume_all_interrupts_service
+ .text.tpl_disable_all_interrupts_service
+                0x00000eea       0x3c build/os/tpl_os_interrupt_kernel.c.o
+                0x00000eea                tpl_disable_all_interrupts_service
+ .text.tpl_enable_all_interrupts_service
+                0x00000f26       0x12 build/os/tpl_os_interrupt_kernel.c.o
+                0x00000f26                tpl_enable_all_interrupts_service
+ .text.tpl_suspend_os_interrupts_service
+                0x00000f38       0x52 build/os/tpl_os_interrupt_kernel.c.o
+                0x00000f38                tpl_suspend_os_interrupts_service
+ .text.tpl_resume_os_interrupts_service
+                0x00000f8a       0x74 build/os/tpl_os_interrupt_kernel.c.o
+                0x00000f8a                tpl_resume_os_interrupts_service
+ .text.tpl_terminate_isr2_service
+                0x00000ffe        0xa build/os/tpl_os_interrupt_kernel.c.o
+                0x00000ffe                tpl_terminate_isr2_service
+ .text.tpl_activate_task_service
+                0x00001008       0x2c build/os/tpl_os_task_kernel.c.o
+                0x00001008                tpl_activate_task_service
+ .text.tpl_terminate_task_service
+                0x00001034       0x2e build/os/tpl_os_task_kernel.c.o
+                0x00001034                tpl_terminate_task_service
+ .text.tpl_chain_task_service
+                0x00001062       0x52 build/os/tpl_os_task_kernel.c.o
+                0x00001062                tpl_chain_task_service
+ .text.tpl_schedule_service
+                0x000010b4       0x4c build/os/tpl_os_task_kernel.c.o
+                0x000010b4                tpl_schedule_service
+ .text.tpl_get_task_id_service
+                0x00001100       0x44 build/os/tpl_os_task_kernel.c.o
+                0x00001100                tpl_get_task_id_service
+ .text.tpl_get_task_state_service
+                0x00001144       0x42 build/os/tpl_os_task_kernel.c.o
+                0x00001144                tpl_get_task_state_service
+ .text.tpl_release_all_resources
+                0x00001186       0x36 build/os/tpl_os_resource_kernel.c.o
+                0x00001186                tpl_release_all_resources
+ .text.tpl_get_resource_service
+                0x000011bc       0x72 build/os/tpl_os_resource_kernel.c.o
+                0x000011bc                tpl_get_resource_service
+ .text.tpl_release_resource_service
+                0x0000122e       0x60 build/os/tpl_os_resource_kernel.c.o
+                0x0000122e                tpl_release_resource_service
+ .text.tpl_set_event_service
+                0x0000128e       0x36 build/os/tpl_os_event_kernel.c.o
+                0x0000128e                tpl_set_event_service
+ .text.tpl_clear_event_service
+                0x000012c4       0x38 build/os/tpl_os_event_kernel.c.o
+                0x000012c4                tpl_clear_event_service
+ .text.tpl_get_event_service
+                0x000012fc       0x40 build/os/tpl_os_event_kernel.c.o
+                0x000012fc                tpl_get_event_service
+ .text.tpl_wait_event_service
+                0x0000133c       0x42 build/os/tpl_os_event_kernel.c.o
+                0x0000133c                tpl_wait_event_service
+ .text.tpl_raise_alarm
+                0x0000137e       0x12 build/os/tpl_os_alarm_kernel.c.o
+                0x0000137e                tpl_raise_alarm
+ .text.tpl_get_alarm_base_service
+                0x00001390       0x82 build/os/tpl_os_alarm_kernel.c.o
+                0x00001390                tpl_get_alarm_base_service
+ .text.tpl_get_alarm_service
+                0x00001412       0xa0 build/os/tpl_os_alarm_kernel.c.o
+                0x00001412                tpl_get_alarm_service
+ .text.tpl_set_rel_alarm_service
+                0x000014b2       0xe4 build/os/tpl_os_alarm_kernel.c.o
+                0x000014b2                tpl_set_rel_alarm_service
+ .text.tpl_set_abs_alarm_service
+                0x00001596       0x90 build/os/tpl_os_alarm_kernel.c.o
+                0x00001596                tpl_set_abs_alarm_service
+ .text.tpl_cancel_alarm_service
+                0x00001626       0x42 build/os/tpl_os_alarm_kernel.c.o
+                0x00001626                tpl_cancel_alarm_service
+ .text.mdelay   0x00001668       0xac build/bsw.cpp.o
+                0x00001668                mdelay
+ .text.printfSerial
+                0x00001714       0x52 build/bsw.cpp.o
+                0x00001714                printfSerial
+ .text._Z9timerInitv
+                0x00001766       0x22 build/bsw.cpp.o
+                0x00001766                _Z9timerInitv
+ .text._Z10timerInit2v
+                0x00001788       0x22 build/bsw.cpp.o
+                0x00001788                _Z10timerInit2v
+ .text.setup    0x000017aa       0x52 build/bsw.cpp.o
+                0x000017aa                setup
+ .text.TickPrint_function
+                0x000017fc       0x50 build/bsw.cpp.o
+                0x000017fc                TickPrint_function
+ .text.Task1_function
+                0x0000184c       0x30 build/asw.c.o
+                0x0000184c                Task1_function
+ .text.Task2_function
+                0x0000187c       0xbe build/asw.c.o
+                0x0000187c                Task2_function
+ .text.Task3_function
+                0x0000193a       0x20 build/asw.c.o
+                0x0000193a                Task3_function
+ .text.__vector_9
+                0x0000195a       0x4c build/conf/tpl_app_config.c.o
+                0x0000195a                __vector_9
+ .text.trampolineSystemCounter
+                0x000019a6        0x8 build/conf/tpl_app_config.c.o
+                0x000019a6                trampolineSystemCounter
+ .text.__vector_13
+                0x000019ae       0x4c build/conf/tpl_app_config.c.o
+                0x000019ae                __vector_13
+ .text.tpl_init_external_interrupts
+                0x000019fa        0x2 build/conf/tpl_interrupts.c.o
+                0x000019fa                tpl_init_external_interrupts
+ .text.turnOffPWM
+                0x000019fc       0x4e build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+ .text.pinMode  0x00001a4a       0x74 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                0x00001a4a                pinMode
+ .text.digitalWrite
+                0x00001abe       0x74 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                0x00001abe                digitalWrite
+ .text.__vector_16
+                0x00001b32       0xb0 build/machines/avr/arduino/cores/arduino/wiring.c.o
+                0x00001b32                __vector_16
+ .text.millis   0x00001be2       0x18 build/machines/avr/arduino/cores/arduino/wiring.c.o
+                0x00001be2                millis
+ .text.init     0x00001bfa       0x6a build/machines/avr/arduino/cores/arduino/wiring.c.o
+                0x00001bfa                init
+ .text.idle_function
+                0x00001c64        0x2 build/machines/avr/tpl_machine.c.o
+                0x00001c64                idle_function
+ .text.tpl_shutdown
+                0x00001c66        0x2 build/machines/avr/tpl_machine.c.o
+                0x00001c66                tpl_shutdown
+ .text.tpl_init_context
+                0x00001c68       0x98 build/machines/avr/tpl_machine.c.o
+                0x00001c68                tpl_init_context
+ .text.tpl_init_machine
+                0x00001d00        0x2 build/machines/avr/tpl_machine.c.o
+                0x00001d00                tpl_init_machine
+ .text.tpl_enable_interrupts
+                0x00001d02        0x4 build/machines/avr/tpl_machine.c.o
+                0x00001d02                tpl_enable_interrupts
+ .text.tpl_disable_interrupts
+                0x00001d06        0x4 build/machines/avr/tpl_machine.c.o
+                0x00001d06                tpl_disable_interrupts
+ .text.tpl_enable_os_interrupts
+                0x00001d0a        0x4 build/machines/avr/tpl_machine.c.o
+                0x00001d0a                tpl_enable_os_interrupts
+ .text.tpl_disable_os_interrupts
+                0x00001d0e        0x4 build/machines/avr/tpl_machine.c.o
+                0x00001d0e                tpl_disable_os_interrupts
+ .text.initVariant
+                0x00001d12        0x2 build/machines/avr/arduino/cores/arduino/main.cpp.o
+                0x00001d12                initVariant
+ .text.startup.main
+                0x00001d14       0x1e build/machines/avr/arduino/cores/arduino/main.cpp.o
+                0x00001d14                main
+ .text.startup._GLOBAL__sub_I__Z10SetAppModea
+                0x00001d32        0xa build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .text._ZL7nothingv
+                0x00001d3c        0x2 build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+ .text.__vector_1
+                0x00001d3e       0x4e build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+                0x00001d3e                __vector_1
+ .text.__vector_2
+                0x00001d8c       0x4e build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+                0x00001d8c                __vector_2
+ .text._ZN5Print5writeEPKhj
+                0x00001dda       0x72 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+                0x00001dda                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00001e4c       0x26 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+                0x00001e4c                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00001e72        0x4 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+                0x00001e72                _ZN5Print5printEPKc
+ .text.__vector_18
+                0x00001e76       0x5a build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+                0x00001e76                __vector_18
+ .text.__vector_19
+                0x00001ed0       0x4c build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+                0x00001ed0                __vector_19
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x00001f1c       0x4a build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+ .text._ZN14HardwareSerial9availableEv
+                0x00001f66       0x18 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x00001f66                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00001f7e       0x1c build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x00001f7e                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00001f9a       0x28 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x00001f9a                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00001fc2       0x1a build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x00001fc2                _ZN14HardwareSerial17availableForWriteEv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00001fdc       0x40 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x00001fdc                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5flushEv
+                0x0000201c       0x44 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x0000201c                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x00002060       0x96 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x00002060                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5beginEmh
+                0x000020f6       0xe8 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x000020f6                _ZN14HardwareSerial5beginEmh
+ .text.avr-libc
+                0x000021de       0x12 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x000021de                strlen
+ .text.avr-libc
+                0x000021f0       0x5a C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+                0x000021f0                vsnprintf
+ .text.vfprintf
+                0x0000224a      0x3ca C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x0000224a                vfprintf
+ .text.avr-libc
+                0x00002614       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00002614                strnlen_P
+ .text.avr-libc
+                0x0000262a       0x16 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x0000262a                strnlen
+ .text.avr-libc
+                0x00002640       0x82 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00002640                fputc
+ .text.avr-libc
+                0x000026c2       0xbc C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x000026c2                __ultoa_invert
+ .text.libgcc.div
+                0x0000277e       0x44 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000277e                __udivmodsi4
+ .text.libgcc.div
+                0x000027c2       0x10 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_negsi2.o)
+                0x000027c2                __negsi2
+ .text.libgcc.prologue
+                0x000027d2       0x38 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_prologue.o)
+                0x000027d2                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000280a       0x36 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_epilogue.o)
+                0x0000280a                __epilogue_restores__
+ .text.libgcc   0x00002840        0xc C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_tablejump2.o)
+                0x00002840                __tablejump2__
+                0x0000284c                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000284c        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+                0x0000284c                _exit
+                0x0000284c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ .fini4         0x0000284c        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(_abort.o)
+                0x0000284c                __abort
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000284c        0x4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx)
+ *(.progmemx.*)
+                0x00002850                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x00002850                        _etext = .
+
+.data           0x00800100      0x2c2 load address 0x00002850
+                0x00800100                        PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800100       0x68 build/machines/avr/tpl_dispatch.S.o
+                0x00800100                tpl_reentrancy_counter
+ *(.data*)
+ .data.application_mode
+                0x00800168        0x1 build/os/tpl_os_os_kernel.c.o
+ .data._ZZ18TickPrint_functionE1c
+                0x00800169        0x4 build/bsw.cpp.o
+ .data.tpl_kern
+                0x0080016d       0x12 build/conf/tpl_app_config.c.o
+                0x0080016d                tpl_kern
+ .data.alarm4_alarm_desc
+                0x0080017f        0xf build/conf/tpl_app_config.c.o
+                0x0080017f                alarm4_alarm_desc
+ .data.alarm3_alarm_desc
+                0x0080018e        0xf build/conf/tpl_app_config.c.o
+                0x0080018e                alarm3_alarm_desc
+ .data.alarm2_alarm_desc
+                0x0080019d        0xf build/conf/tpl_app_config.c.o
+                0x0080019d                alarm2_alarm_desc
+ .data.alarm1_alarm_desc
+                0x008001ac        0xf build/conf/tpl_app_config.c.o
+                0x008001ac                alarm1_alarm_desc
+ .data.TimerAlarm_alarm_desc
+                0x008001bb        0xf build/conf/tpl_app_config.c.o
+                0x008001bb                TimerAlarm_alarm_desc
+ .data.TickPrint_task_desc
+                0x008001ca        0x5 build/conf/tpl_app_config.c.o
+                0x008001ca                TickPrint_task_desc
+ .data.Task3_task_desc
+                0x008001cf        0x5 build/conf/tpl_app_config.c.o
+                0x008001cf                Task3_task_desc
+ .data.Task1_task_desc
+                0x008001d4        0x5 build/conf/tpl_app_config.c.o
+                0x008001d4                Task1_task_desc
+ .data.Task2_task_desc
+                0x008001d9        0x5 build/conf/tpl_app_config.c.o
+                0x008001d9                Task2_task_desc
+ .data.counter1_counter_desc
+                0x008001de       0x18 build/conf/tpl_app_config.c.o
+                0x008001de                counter1_counter_desc
+ .data.SystemCounter_counter_desc
+                0x008001f6       0x18 build/conf/tpl_app_config.c.o
+                0x008001f6                SystemCounter_counter_desc
+ .data.DefaultTimer_counter_desc
+                0x0080020e       0x18 build/conf/tpl_app_config.c.o
+                0x0080020e                DefaultTimer_counter_desc
+ .data.res_sched_rez_desc
+                0x00800226        0x5 build/conf/tpl_app_config.c.o
+                0x00800226                res_sched_rez_desc
+ .data._ZL7intFunc
+                0x0080022b        0x4 build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.INVALID_TASK
+                0x0080022f        0x1 build/os/tpl_os_kernel.c.o
+                0x0080022f                INVALID_TASK
+ .rodata.setup.str1.1
+                0x00800230       0xa3 build/bsw.cpp.o
+                                 0x34 (size before relaxing)
+ .rodata.TickPrint_function.str1.1
+                0x008002d3        0x0 build/bsw.cpp.o
+                                  0x8 (size before relaxing)
+ .rodata.Task1_function.str1.1
+                0x008002d3        0x0 build/asw.c.o
+                                 0x22 (size before relaxing)
+ .rodata.Task2_function.str1.1
+                0x008002d3        0x0 build/asw.c.o
+                                 0x56 (size before relaxing)
+ .rodata.tpl_alarm_table
+                0x008002d3        0xa build/conf/tpl_app_config.c.o
+                0x008002d3                tpl_alarm_table
+ .rodata.alarm4_static
+                0x008002dd        0x6 build/conf/tpl_app_config.c.o
+                0x008002dd                alarm4_static
+ .rodata.alarm4_action
+                0x008002e3        0x4 build/conf/tpl_app_config.c.o
+                0x008002e3                alarm4_action
+ .rodata.alarm3_static
+                0x008002e7        0x6 build/conf/tpl_app_config.c.o
+                0x008002e7                alarm3_static
+ .rodata.alarm3_action
+                0x008002ed        0x4 build/conf/tpl_app_config.c.o
+                0x008002ed                alarm3_action
+ .rodata.alarm2_static
+                0x008002f1        0x6 build/conf/tpl_app_config.c.o
+                0x008002f1                alarm2_static
+ .rodata.alarm2_action
+                0x008002f7        0x3 build/conf/tpl_app_config.c.o
+                0x008002f7                alarm2_action
+ .rodata.alarm1_static
+                0x008002fa        0x6 build/conf/tpl_app_config.c.o
+                0x008002fa                alarm1_static
+ .rodata.alarm1_action
+                0x00800300        0x3 build/conf/tpl_app_config.c.o
+                0x00800300                alarm1_action
+ .rodata.TimerAlarm_static
+                0x00800303        0x6 build/conf/tpl_app_config.c.o
+                0x00800303                TimerAlarm_static
+ .rodata.TimerAlarm_action
+                0x00800309        0x3 build/conf/tpl_app_config.c.o
+                0x00800309                TimerAlarm_action
+ .rodata.tpl_task_events_table
+                0x0080030c        0x2 build/conf/tpl_app_config.c.o
+                0x0080030c                tpl_task_events_table
+ .rodata.tpl_dyn_proc_table
+                0x0080030e        0xa build/conf/tpl_app_config.c.o
+                0x0080030e                tpl_dyn_proc_table
+ .rodata.tpl_stat_proc_table
+                0x00800318        0xa build/conf/tpl_app_config.c.o
+                0x00800318                tpl_stat_proc_table
+ .rodata.TickPrint_task_stat_desc
+                0x00800322        0xe build/conf/tpl_app_config.c.o
+                0x00800322                TickPrint_task_stat_desc
+ .rodata.Task3_task_stat_desc
+                0x00800330        0xe build/conf/tpl_app_config.c.o
+                0x00800330                Task3_task_stat_desc
+ .rodata.Task1_task_stat_desc
+                0x0080033e        0xe build/conf/tpl_app_config.c.o
+                0x0080033e                Task1_task_stat_desc
+ .rodata.Task2_task_stat_desc
+                0x0080034c        0xe build/conf/tpl_app_config.c.o
+                0x0080034c                Task2_task_stat_desc
+ .rodata.IDLE_TASK_task_stat_desc
+                0x0080035a        0xe build/conf/tpl_app_config.c.o
+                0x0080035a                IDLE_TASK_task_stat_desc
+ .rodata.tpl_resource_table
+                0x00800368        0x2 build/conf/tpl_app_config.c.o
+                0x00800368                tpl_resource_table
+ .rodata.Task3  0x0080036a        0x1 build/conf/tpl_app_config.c.o
+                0x0080036a                Task3
+ .rodata.Task2  0x0080036b        0x1 build/conf/tpl_app_config.c.o
+                0x0080036b                Task2
+ .rodata.Event2
+                0x0080036c        0x1 build/conf/tpl_app_config.c.o
+                0x0080036c                Event2
+ .rodata.Event1
+                0x0080036d        0x1 build/conf/tpl_app_config.c.o
+                0x0080036d                Event1
+ .rodata.tpl_alarm_app_mode
+                0x0080036e        0x5 build/conf/tpl_app_config.c.o
+                0x0080036e                tpl_alarm_app_mode
+ .rodata.tpl_task_app_mode
+                0x00800373        0x4 build/conf/tpl_app_config.c.o
+                0x00800373                tpl_task_app_mode
+ .rodata.OSDEFAULTAPPMODE
+                0x00800377        0x1 build/conf/tpl_app_config.c.o
+                0x00800377                OSDEFAULTAPPMODE
+ .rodata.tpl_dispatch_table
+                0x00800378       0x38 build/conf/tpl_dispatch_table.c.o
+                0x00800378                tpl_dispatch_table
+ .rodata._ZTV14HardwareSerial
+                0x008003b0       0x12 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                0x008003b0                _ZTV14HardwareSerial
+ *(.gnu.linkonce.r*)
+                0x008003c2                        . = ALIGN (0x2)
+                0x008003c2                        _edata = .
+                0x008003c2                        PROVIDE (__data_end = .)
+
+.bss            0x008003c2      0x46d
+                0x008003c2                        PROVIDE (__bss_start = .)
+ *(.bss)
+ *(.bss*)
+ .bss.alarm_callback_running
+                0x008003c2        0x1 build/os/tpl_os_kernel.c.o
+ .bss.tpl_counters_enabled
+                0x008003c3        0x1 build/os/tpl_os_timeobj_kernel.c.o
+ .bss.tpl_cpt_os_task_lock
+                0x008003c4        0x4 build/os/tpl_os_interrupt_kernel.c.o
+                0x008003c4                tpl_cpt_os_task_lock
+ .bss.tpl_cpt_user_task_lock_OS
+                0x008003c8        0x4 build/os/tpl_os_interrupt_kernel.c.o
+                0x008003c8                tpl_cpt_user_task_lock_OS
+ .bss.tpl_cpt_user_task_lock_All
+                0x008003cc        0x4 build/os/tpl_os_interrupt_kernel.c.o
+                0x008003cc                tpl_cpt_user_task_lock_All
+ .bss.tpl_user_task_lock
+                0x008003d0        0x1 build/os/tpl_os_interrupt_kernel.c.o
+                0x008003d0                tpl_user_task_lock
+ .bss.tpl_locking_depth
+                0x008003d1        0x4 build/os/tpl_os_interrupt_kernel.c.o
+                0x008003d1                tpl_locking_depth
+ .bss.tpl_tail_for_prio
+                0x008003d5        0x6 build/conf/tpl_app_config.c.o
+                0x008003d5                tpl_tail_for_prio
+ .bss.tpl_ready_list
+                0x008003db        0xc build/conf/tpl_app_config.c.o
+                0x008003db                tpl_ready_list
+ .bss.TickPrint_int_context
+                0x008003e7        0x2 build/conf/tpl_app_config.c.o
+                0x008003e7                TickPrint_int_context
+ .bss.TickPrint_stack_zone
+                0x008003e9      0x100 build/conf/tpl_app_config.c.o
+                0x008003e9                TickPrint_stack_zone
+ .bss.Task3_int_context
+                0x008004e9        0x2 build/conf/tpl_app_config.c.o
+                0x008004e9                Task3_int_context
+ .bss.Task3_stack_zone
+                0x008004eb       0x40 build/conf/tpl_app_config.c.o
+                0x008004eb                Task3_stack_zone
+ .bss.Task1_int_context
+                0x0080052b        0x2 build/conf/tpl_app_config.c.o
+                0x0080052b                Task1_int_context
+ .bss.Task1_stack_zone
+                0x0080052d      0x100 build/conf/tpl_app_config.c.o
+                0x0080052d                Task1_stack_zone
+ .bss.Task2_task_evts
+                0x0080062d        0x2 build/conf/tpl_app_config.c.o
+                0x0080062d                Task2_task_evts
+ .bss.Task2_int_context
+                0x0080062f        0x2 build/conf/tpl_app_config.c.o
+                0x0080062f                Task2_int_context
+ .bss.Task2_stack_zone
+                0x00800631      0x100 build/conf/tpl_app_config.c.o
+                0x00800631                Task2_stack_zone
+ .bss.IDLE_TASK_task_desc
+                0x00800731        0x5 build/conf/tpl_app_config.c.o
+                0x00800731                IDLE_TASK_task_desc
+ .bss.IDLE_TASK_int_context
+                0x00800736        0x2 build/conf/tpl_app_config.c.o
+                0x00800736                IDLE_TASK_int_context
+ .bss.IDLE_TASK_stack_zone
+                0x00800738       0x50 build/conf/tpl_app_config.c.o
+                0x00800738                IDLE_TASK_stack_zone
+ .bss.timer0_fract
+                0x00800788        0x1 build/machines/avr/arduino/cores/arduino/wiring.c.o
+ .bss.timer0_millis
+                0x00800789        0x4 build/machines/avr/arduino/cores/arduino/wiring.c.o
+                0x00800789                timer0_millis
+ .bss.timer0_overflow_count
+                0x0080078d        0x4 build/machines/avr/arduino/cores/arduino/wiring.c.o
+                0x0080078d                timer0_overflow_count
+ .bss._ZL9__appMode
+                0x00800791        0x1 build/machines/avr/arduino/cores/arduino/main.cpp.o
+ .bss.Serial    0x00800792       0x9d build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+                0x00800792                Serial
+ *(COMMON)
+                0x0080082f                        PROVIDE (__bss_end = .)
+                0x00002850                        __data_load_start = LOADADDR (.data)
+                0x00002b12                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080082f        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x0080082f                        _end = .
+                0x0080082f                        PROVIDE (__heap_start = .)
+                0x00000000                        __flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0
+                0x00000000                        __flmap = DEFINED (__flmap)?__flmap:0x0
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x12
+ *(.comment)
+ .comment       0x00000000       0x12 build/os/tpl_os_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_timeobj_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_action.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_os_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_os.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_interrupt_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_task_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_resource_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_event_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/os/tpl_os_alarm_kernel.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/bsw.cpp.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/asw.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/conf/tpl_app_config.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/conf/tpl_dispatch_table.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/conf/tpl_interrupts.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/arduino/cores/arduino/wiring_digital.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/arduino/cores/arduino/wiring.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/tpl_machine.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/arduino/cores/arduino/main.cpp.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/arduino/cores/arduino/WInterrupts.c.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/arduino/cores/arduino/Print.cpp.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial0.cpp.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 build/machines/avr/arduino/cores/arduino/HardwareSerial.cpp.o
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                 0x13 (size before relaxing)
+ .comment       0x00000012        0x0 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                                 0x13 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x5f4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_abbrev   0x00000000      0x5a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_line     0x00000000       0x1d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x208
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/msys64/ucrt64/bin/../lib/gcc/avr/15.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(base elf32-avr)
+LOAD linker stubs

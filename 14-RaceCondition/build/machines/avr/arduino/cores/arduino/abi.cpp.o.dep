@@ -1,0 +1,8 @@
+build/machines/avr/arduino/cores/arduino/abi.cpp.o: \
+ ../../machines/avr/arduino/cores/arduino/abi.cpp \
+ C:/msys64/ucrt64/avr/include/stdlib.h \
+ C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stddef.h \
+ C:/msys64/ucrt64/avr/include/bits/attribs.h
+C:/msys64/ucrt64/avr/include/stdlib.h:
+C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stddef.h:
+C:/msys64/ucrt64/avr/include/bits/attribs.h:

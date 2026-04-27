@@ -1,0 +1,28 @@
+build/machines/avr/arduino/cores/arduino/WString.cpp.o: \
+ ../../machines/avr/arduino/cores/arduino/WString.cpp \
+ ../../machines/avr/arduino/cores/arduino/WString.h \
+ C:/msys64/ucrt64/avr/include/stdlib.h \
+ C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stddef.h \
+ C:/msys64/ucrt64/avr/include/bits/attribs.h \
+ C:/msys64/ucrt64/avr/include/string.h \
+ C:/msys64/ucrt64/avr/include/ctype.h \
+ C:/msys64/ucrt64/avr/include/avr/pgmspace.h \
+ C:/msys64/ucrt64/avr/include/inttypes.h \
+ C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stdint.h \
+ C:/msys64/ucrt64/avr/include/stdint.h \
+ C:/msys64/ucrt64/avr/include/bits/lpm-elpm.h \
+ C:/msys64/ucrt64/avr/include/bits/def-pgm-read.h \
+ C:/msys64/ucrt64/avr/include/bits/def-pgm-read-far.h
+../../machines/avr/arduino/cores/arduino/WString.h:
+C:/msys64/ucrt64/avr/include/stdlib.h:
+C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stddef.h:
+C:/msys64/ucrt64/avr/include/bits/attribs.h:
+C:/msys64/ucrt64/avr/include/string.h:
+C:/msys64/ucrt64/avr/include/ctype.h:
+C:/msys64/ucrt64/avr/include/avr/pgmspace.h:
+C:/msys64/ucrt64/avr/include/inttypes.h:
+C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stdint.h:
+C:/msys64/ucrt64/avr/include/stdint.h:
+C:/msys64/ucrt64/avr/include/bits/lpm-elpm.h:
+C:/msys64/ucrt64/avr/include/bits/def-pgm-read.h:
+C:/msys64/ucrt64/avr/include/bits/def-pgm-read-far.h:
