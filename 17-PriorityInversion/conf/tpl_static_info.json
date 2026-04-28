@@ -1,0 +1,138 @@
+
+{
+  "alarm" : 
+  [
+    
+    {
+      "ACTION" : "ACTIVATETASK",
+      "ACTION_S" : 
+      {
+        "TASK" : "TickPrint"
+      },
+      "AUTOSTART" : "true",
+      "AUTOSTART_S" : 
+      {
+        "ALARMTIME" : 977,
+        "APPMODE" : 
+        [
+          
+          {
+            "VALUE" : "stdAppmode"
+          }
+        ],
+        "CYCLETIME" : 977
+      },
+      "COUNTER" : "DefaultTimer",
+      "NAME" : "TimerAlarm"
+    }
+  ],
+  "event" : 
+  [
+    
+    {
+      "MASK" : 1,
+      "NAME" : "Event1",
+      "REF" : 2
+    }
+  ],
+  "ioc" : [],
+  "isr" : [],
+  "message" : [],
+  "resource" : 
+  [
+    
+    {
+      "ISRUSAGE" : [],
+      "KIND" : "Resource",
+      "NAME" : "S1",
+      "PRIORITY" : 4,
+      "RESOURCEPROPERTY" : "STANDARD",
+      "TASKUSAGE" : 
+      [
+        
+        {
+          "VALUE" : "TaskH"
+        },        
+        {
+          "VALUE" : "TaskL"
+        }
+      ]
+    }
+  ],
+  "task" : 
+  [
+    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "EVENT" : 
+      [
+        
+        {
+          "VALUE" : "Event1"
+        }
+      ],
+      "KIND" : "Task",
+      "NAME" : "TaskL",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 1,
+      "RESOURCE" : 
+      [
+        
+        {
+          "VALUE" : "S1"
+        }
+      ],
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 128,
+      "USEINTERNALRESOURCE" : "false"
+    },    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "EVENT" : 
+      [
+        
+        {
+          "VALUE" : "Event1"
+        }
+      ],
+      "KIND" : "Task",
+      "NAME" : "TaskH",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 3,
+      "RESOURCE" : 
+      [
+        
+        {
+          "VALUE" : "S1"
+        }
+      ],
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 128,
+      "USEINTERNALRESOURCE" : "false"
+    },    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "KIND" : "Task",
+      "NAME" : "TaskM",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 2,
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 128,
+      "USEINTERNALRESOURCE" : "false"
+    },    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "KIND" : "Task",
+      "NAME" : "TickPrint",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 5,
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 128,
+      "USEINTERNALRESOURCE" : "false"
+    }
+  ]
+}

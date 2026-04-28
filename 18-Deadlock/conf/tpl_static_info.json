@@ -1,0 +1,161 @@
+
+{
+  "alarm" : 
+  [
+    
+    {
+      "ACTION" : "ACTIVATETASK",
+      "ACTION_S" : 
+      {
+        "TASK" : "TickPrint"
+      },
+      "AUTOSTART" : "true",
+      "AUTOSTART_S" : 
+      {
+        "ALARMTIME" : 977,
+        "APPMODE" : 
+        [
+          
+          {
+            "VALUE" : "stdAppmode"
+          }
+        ],
+        "CYCLETIME" : 977
+      },
+      "COUNTER" : "DefaultTimer",
+      "NAME" : "TimerAlarm"
+    }
+  ],
+  "event" : 
+  [
+    
+    {
+      "MASK" : 1,
+      "NAME" : "Event1",
+      "REF" : 2
+    },    
+    {
+      "MASK" : 2,
+      "NAME" : "Event2",
+      "REF" : 2
+    }
+  ],
+  "ioc" : [],
+  "isr" : [],
+  "message" : [],
+  "resource" : 
+  [
+    
+    {
+      "ISRUSAGE" : [],
+      "KIND" : "Resource",
+      "NAME" : "S2",
+      "PRIORITY" : 3,
+      "RESOURCEPROPERTY" : "STANDARD",
+      "TASKUSAGE" : 
+      [
+        
+        {
+          "VALUE" : "TaskH"
+        },        
+        {
+          "VALUE" : "TaskL"
+        }
+      ]
+    },    
+    {
+      "ISRUSAGE" : [],
+      "KIND" : "Resource",
+      "NAME" : "S1",
+      "PRIORITY" : 3,
+      "RESOURCEPROPERTY" : "STANDARD",
+      "TASKUSAGE" : 
+      [
+        
+        {
+          "VALUE" : "TaskH"
+        },        
+        {
+          "VALUE" : "TaskL"
+        }
+      ]
+    }
+  ],
+  "task" : 
+  [
+    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "EVENT" : 
+      [
+        
+        {
+          "VALUE" : "Event1"
+        },        
+        {
+          "VALUE" : "Event2"
+        }
+      ],
+      "KIND" : "Task",
+      "NAME" : "TaskL",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 1,
+      "RESOURCE" : 
+      [
+        
+        {
+          "VALUE" : "S1"
+        },        
+        {
+          "VALUE" : "S2"
+        }
+      ],
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 256,
+      "USEINTERNALRESOURCE" : "false"
+    },    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "EVENT" : 
+      [
+        
+        {
+          "VALUE" : "Event1"
+        },        
+        {
+          "VALUE" : "Event2"
+        }
+      ],
+      "KIND" : "Task",
+      "NAME" : "TaskH",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 2,
+      "RESOURCE" : 
+      [
+        
+        {
+          "VALUE" : "S1"
+        },        
+        {
+          "VALUE" : "S2"
+        }
+      ],
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 256,
+      "USEINTERNALRESOURCE" : "false"
+    },    
+    {
+      "ACTIVATION" : 1,
+      "AUTOSTART" : "false",
+      "KIND" : "Task",
+      "NAME" : "TickPrint",
+      "NONPREEMPTABLE" : "false",
+      "PRIORITY" : 4,
+      "SCHEDULE" : "FULL",
+      "STACKSIZE" : 256,
+      "USEINTERNALRESOURCE" : "false"
+    }
+  ]
+}

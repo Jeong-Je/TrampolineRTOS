@@ -1,0 +1,94 @@
+build/mutex.c.o: mutex.c bsw.h \
+ ../../machines/avr/arduino/cores/arduino/Arduino.h \
+ C:/msys64/ucrt64/avr/include/stdlib.h \
+ C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stddef.h \
+ C:/msys64/ucrt64/avr/include/bits/attribs.h \
+ C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stdbool.h \
+ C:/msys64/ucrt64/avr/include/string.h \
+ C:/msys64/ucrt64/avr/include/math.h \
+ C:/msys64/ucrt64/avr/include/avr/pgmspace.h \
+ C:/msys64/ucrt64/avr/include/inttypes.h \
+ C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stdint.h \
+ C:/msys64/ucrt64/avr/include/stdint.h \
+ C:/msys64/ucrt64/avr/include/bits/lpm-elpm.h \
+ C:/msys64/ucrt64/avr/include/bits/def-pgm-read.h \
+ C:/msys64/ucrt64/avr/include/bits/def-pgm-read-far.h \
+ C:/msys64/ucrt64/avr/include/avr/io.h \
+ C:/msys64/ucrt64/avr/include/avr/sfr_defs.h \
+ C:/msys64/ucrt64/avr/include/avr/iom328p.h \
+ C:/msys64/ucrt64/avr/include/avr/portpins.h \
+ C:/msys64/ucrt64/avr/include/avr/common.h \
+ C:/msys64/ucrt64/avr/include/avr/version.h \
+ C:/msys64/ucrt64/avr/include/avr/fuse.h \
+ C:/msys64/ucrt64/avr/include/avr/lock.h \
+ C:/msys64/ucrt64/avr/include/avr/interrupt.h \
+ ../../machines/avr/arduino/cores/arduino/binary.h \
+ ../../machines/avr/arduino/variants/standard/pins_arduino.h \
+ conf/tpl_app_config.h conf/tpl_app_define.h ../../os/tpl_config_def.h \
+ ../../os/tpl_config_check.h ../../os/tpl_compiler.h \
+ conf/tpl_app_define.h ../../os/tpl_os_internal_types.h \
+ ../../machines/avr/tpl_os_std_types.h ../../os/tpl_os_custom_types.h \
+ ../../os/tpl_os_application_def.h conf/tpl_app_custom_types.h \
+ ../../machines/avr/tpl_machine.h ../../os/tpl_os_custom_types.h \
+ ../../os/tpl_compiler.h ../../os/tpl_memmap.h conf/tpl_os.h \
+ ../../os/tpl_os_definitions.h ../../os/tpl_os_application_def.h \
+ ../../os/tpl_os_error.h ../../os/tpl_os_types.h \
+ ../../os/tpl_os_internal_types.h ../../os/tpl_memmap.h \
+ ../../os/tpl_os_os.h ../../os/tpl_os_interrupt.h ../../os/tpl_os_task.h \
+ ../../os/tpl_os_resource.h ../../os/tpl_os_event.h \
+ ../../os/tpl_os_alarm.h mutex.h
+bsw.h:
+../../machines/avr/arduino/cores/arduino/Arduino.h:
+C:/msys64/ucrt64/avr/include/stdlib.h:
+C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stddef.h:
+C:/msys64/ucrt64/avr/include/bits/attribs.h:
+C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stdbool.h:
+C:/msys64/ucrt64/avr/include/string.h:
+C:/msys64/ucrt64/avr/include/math.h:
+C:/msys64/ucrt64/avr/include/avr/pgmspace.h:
+C:/msys64/ucrt64/avr/include/inttypes.h:
+C:/msys64/ucrt64/lib/gcc/avr/15.2.0/include/stdint.h:
+C:/msys64/ucrt64/avr/include/stdint.h:
+C:/msys64/ucrt64/avr/include/bits/lpm-elpm.h:
+C:/msys64/ucrt64/avr/include/bits/def-pgm-read.h:
+C:/msys64/ucrt64/avr/include/bits/def-pgm-read-far.h:
+C:/msys64/ucrt64/avr/include/avr/io.h:
+C:/msys64/ucrt64/avr/include/avr/sfr_defs.h:
+C:/msys64/ucrt64/avr/include/avr/iom328p.h:
+C:/msys64/ucrt64/avr/include/avr/portpins.h:
+C:/msys64/ucrt64/avr/include/avr/common.h:
+C:/msys64/ucrt64/avr/include/avr/version.h:
+C:/msys64/ucrt64/avr/include/avr/fuse.h:
+C:/msys64/ucrt64/avr/include/avr/lock.h:
+C:/msys64/ucrt64/avr/include/avr/interrupt.h:
+../../machines/avr/arduino/cores/arduino/binary.h:
+../../machines/avr/arduino/variants/standard/pins_arduino.h:
+conf/tpl_app_config.h:
+conf/tpl_app_define.h:
+../../os/tpl_config_def.h:
+../../os/tpl_config_check.h:
+../../os/tpl_compiler.h:
+conf/tpl_app_define.h:
+../../os/tpl_os_internal_types.h:
+../../machines/avr/tpl_os_std_types.h:
+../../os/tpl_os_custom_types.h:
+../../os/tpl_os_application_def.h:
+conf/tpl_app_custom_types.h:
+../../machines/avr/tpl_machine.h:
+../../os/tpl_os_custom_types.h:
+../../os/tpl_compiler.h:
+../../os/tpl_memmap.h:
+conf/tpl_os.h:
+../../os/tpl_os_definitions.h:
+../../os/tpl_os_application_def.h:
+../../os/tpl_os_error.h:
+../../os/tpl_os_types.h:
+../../os/tpl_os_internal_types.h:
+../../os/tpl_memmap.h:
+../../os/tpl_os_os.h:
+../../os/tpl_os_interrupt.h:
+../../os/tpl_os_task.h:
+../../os/tpl_os_resource.h:
+../../os/tpl_os_event.h:
+../../os/tpl_os_alarm.h:
+mutex.h:
